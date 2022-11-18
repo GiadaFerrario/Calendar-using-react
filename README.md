@@ -1,2 +1,2 @@
-# ReactCalendar
+### ReactCalendar
 First approach with React
