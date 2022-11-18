@@ -1,2 +1,3 @@
 ### ReactCalendar
-First approach with React
+
+First approach with React and JavaScript
